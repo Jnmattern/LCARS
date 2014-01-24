@@ -1,7 +1,7 @@
 LCARS
 =====
 
-[img]LCARS.png[/img]
+![Screenshot](LCARS.png)
 
 SDK 2.0 port of LCARS
 
